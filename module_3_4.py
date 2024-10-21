@@ -18,6 +18,3 @@ result3 = single_root_words('мЕч', 'Мечта', 'зАмечательно', 
 print(result1)   #['richiest', 'orichalcum', 'richies']
 print(result2)   #['Able', 'Disable']
 print(result3)
-
-
-
