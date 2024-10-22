@@ -1,6 +1,5 @@
 #Задача "Рекурсивное умножение цифр"
 
-# Решение, описанное в задаче
 def get_multiplied_digits(number):
     str_number = str(number)
     first = int(str_number[0])
